@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hassanferoze28
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning MS in Data Anlaytics Engineering (NLP)
+- 🌱 I’m currently learning MS in Data Anlaytics Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
